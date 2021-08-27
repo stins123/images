@@ -1,4 +1,4 @@
-# images
+# Using Images
 repository for images
 
 Public images are available from the "issues" in this repository.
